@@ -3,7 +3,7 @@ Library    Selenium2Library
 
 *** Variables ***
 ${browser}    chrome
-${url}    https://google.com/
+${url}    https://www.google.com/
 ${expected_result}     Podcasts ไทย
 
 *** Keywords ***
